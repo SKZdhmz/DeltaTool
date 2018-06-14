@@ -1,7 +1,0 @@
-startup_le.ini
-modeling\le
-monitoring\le
-
-# first line: startup
-# second line: modeling
-# third line: monitoring

@@ -1,5 +1,0 @@
-library("ncdf4")
-library("openxlsx")
-source("funkcije.R", encoding="utf-8")
-delta_mjerenja(godina=2016,fpath ="F:\\Data/MJERENJA/")
-delta_model(godina=2016,fpath = "F:\\Data/LOTOS-EUROS/LE_v2-1-001_conc-sfc-HR_2016.nc")
