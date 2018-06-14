@@ -1,0 +1,22 @@
+#SaveInfo File  => Do not remove the # lines <=
+#STARTUP Full Path to Startup.ini file
+C:\data\work\projects\delta\application\resource\startup_conv.ini
+#INITRUN
+20050101
+#ENDRUN
+20051231
+#INPUT_DIR
+C:\data\work\projects\delta\application\data\modeling\csv
+#INPUT_FILE_ID
+2005_
+#OUTPUT_DIR
+C:\data\work\projects\delta\application\data\modeling\cdf
+#YEAR
+2005
+#MODEL_NAME
+CHIM
+#POSTFIX
+TIME.cdf
+#OBSERVED_FLAG
+0
+#END
